@@ -1,5 +1,5 @@
 # Oauth2 Experiment
-Source: [Beer Locker: Building a RESTful API With Node](http://scottksmith.com/blog/2014/05/02/building-restful-apis-with-node/)
+Source: <a href="http://scottksmith.com/blog/2014/05/02/building-restful-apis-with-node/" target="_blank">Beer Locker: Building a RESTful API With Node</a>
 The purpose of this repo is to learn how to build an OAUTH2 NodeJS RESTful API. The Beer Locker is simply just a starting point. A MongoDB is currently required to run the API
 
 ## Goals
